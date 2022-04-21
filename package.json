@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "demon": "^1.4.4",
+    "express": "^4.17.3",
+    "no": "^0.0.1"
+  },
+  "devDependencies": {
+    "body-parser": "^1.20.0"
+  }
+}
