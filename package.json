@@ -1,8 +1,10 @@
 {
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "demon": "^1.4.4",
     "express": "^4.17.3",
     "force": "^0.0.3",
+    "mysql2": "^2.3.3",
     "no": "^0.0.1"
   },
   "devDependencies": {
